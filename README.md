@@ -57,9 +57,3 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 </div>
 
-**Languages:** Go · Python · SQL  
-**Data:** PostgreSQL · Redis · pgvector  
-**Infrastructure & DevOps:** Git · Docker · Terraform · Linux · CI/CD · Virtualization  
-**Networking:** VLAN · DHCP/DNS · NAT · ACL · SNMP  
-**AI:** ML/DL · PyTorch · Fine-tuning · RAG  
-**Observability:** Prometheus · Grafana
