@@ -15,14 +15,6 @@ I am a **Computer Engineering graduate** focused on backend and infrastructure e
 
 I like systems where correctness matters: distributed services, real-time infrastructure, financial data pipelines, protocol-heavy backends, observability, automation, and AI-assisted engineering workflows.
 
-My current direction sits at the intersection of:
-
-```text
-Backend Engineering  ×  Distributed Systems  ×  FinTech  ×  AI Automation
-```
-
-I care less about adding another framework to a stack and more about understanding the system underneath it: state, failure modes, concurrency, data ownership, invariants, observability, and how the pieces behave under real load.
-
 ---
 
 ## Engineering Focus
