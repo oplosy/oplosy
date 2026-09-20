@@ -4,7 +4,11 @@
 
 <a href="https://github.com/oplosy?tab=repositories"><img src="https://img.shields.io/badge/Go-Backend%20%26%20Systems-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Backend & Systems" /></a>
 <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI workflows" />
+<br/>
+
 <img src="https://img.shields.io/badge/FinTech-Risk%20%26%20Market%20Infrastructure-0F172A?style=for-the-badge" alt="FinTech" />
+<br/>
+
 <img src="https://img.shields.io/badge/Infra-Distributed%20Systems-334155?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Infrastructure" />
 
 </div>
