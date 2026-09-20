@@ -9,7 +9,9 @@
 
 </div>
 
-## About
+<div align="left">
+  <img src="https://img.shields.io/badge/01-ABOUT-161B22?style=for-the-badge&labelColor=00ADD8" alt="01 About" />
+</div>
 
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
@@ -25,23 +27,27 @@ I care less about adding another framework to a stack and more about understandi
 
 ---
 
-## Engineering focus
+<div align="left">
+  <img src="https://img.shields.io/badge/02-ENGINEERING%20FOCUS-161B22?style=for-the-badge&labelColor=00ADD8" alt="02 Engineering Focus" />
+</div>
 
-### Backend & Infrastructure
+### Backend / Infrastructure
 `Go services` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker` · `Terraform` · `Linux` · `CI/CD` · `Observability`
 
-### AI & Automation
+### AI / Automation
 `LLM systems` · `RAG` · `Vector retrieval` · `MCP` · `Tool calling` · `Workflow orchestration` · `Automation`
 
-### Real-time & Distributed Systems
+### Real-time / Distributed Systems
 `WebSockets` · `SSE` · `CRDTs` · `Event-driven systems` · `Redis Pub/Sub` · `Concurrency` · `Recovery` · `Load testing`
 
-### FinTech & Market Systems
+### FinTech / Market Systems
 `Market data` · `Portfolio & risk` · `Append-only ledgers` · `Reconciliation` · `EVM` · `Indexers` · `On-chain events`
 
 ---
 
-## AI Agent
+<div align="left">
+  <img src="https://img.shields.io/badge/03-AI%20AGENT-161B22?style=for-the-badge&labelColor=00ADD8" alt="03 AI Agent" />
+</div>
 
 I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
@@ -49,7 +55,9 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 ---
 
-## Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/04-STACK-161B22?style=for-the-badge&labelColor=00ADD8" alt="04 Stack" />
+</div>
 
 <div align="center">
 
