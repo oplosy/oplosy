@@ -158,15 +158,83 @@ Go modular monolith, PostgreSQL RLS, auth, Stripe metering, Redis/Asynq jobs, Mi
 
 ## Stack
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,postgres,redis,docker,kubernetes,terraform,linux,grafana,prometheus,git,github,solidity" alt="Technology stack" />
+<strong>Languages</strong>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Realtime-WebSockets%20%7C%20SSE%20%7C%20CRDT-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20Redis%20%7C%20pgvector-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-RAG%20%7C%20MCP%20%7C%20LLM%20Workflows-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Kubernetes%20%7C%20Terraform-111827?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=go,python" alt="Go and Python" />
 
-</div>
+<br/><br/>
+
+<sub>Go · Python · SQL</sub>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>Data</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL and Redis" />
+
+<br/><br/>
+
+<sub>PostgreSQL · Redis · pgvector</sub>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>Infrastructure</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,terraform,linux,git" alt="Docker, Terraform, Linux and Git" />
+
+<br/><br/>
+
+<sub>Docker · Terraform · Linux · Git · CI/CD · Virtualization</sub>
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<strong>AI</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+
+<br/><br/>
+
+<sub>ML/DL · PyTorch · Fine-tuning · RAG</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="top">
+
+<strong>Networking</strong>
+
+<br/><br/>
+
+<sub>VLAN · DHCP/DNS · NAT · ACL · SNMP</sub>
+
+</td>
+<td align="center" colspan="2" valign="top">
+
+<strong>Observability</strong>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
+
+<br/><br/>
+
+<sub>Prometheus · Grafana</sub>
+
+</td>
+</tr>
+</table>
