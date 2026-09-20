@@ -15,8 +15,6 @@ I am a **Computer Engineering graduate** focused on backend and infrastructure e
 
 I like systems where correctness matters: distributed services, real-time infrastructure, financial data pipelines, protocol-heavy backends, observability, automation, and AI-assisted engineering workflows.
 
----
-
 ## Engineering Focus
 
 <table>
@@ -61,8 +59,6 @@ Market data, portfolio and risk infrastructure, append-only ledgers, reconciliat
 </td>
 </tr>
 </table>
-
----
 
 ## AI Agent
 
