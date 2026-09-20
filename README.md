@@ -27,17 +27,48 @@ I care less about adding another framework to a stack and more about understandi
 
 ## 02 — Engineering Focus
 
-### Backend / Infrastructure
-`Go services` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker` · `Terraform` · `Linux` · `CI/CD` · `Observability`
+<table>
+<tr>
+<td valign="top">
 
-### AI / Automation
-`LLM systems` · `RAG` · `Vector retrieval` · `MCP` · `Tool calling` · `Workflow orchestration` · `Automation`
+<sub>01 / BACKEND</sub>
 
-### Real-time / Distributed Systems
-`WebSockets` · `SSE` · `CRDTs` · `Event-driven systems` · `Redis Pub/Sub` · `Concurrency` · `Recovery` · `Load testing`
+### Backend & Infrastructure
 
-### FinTech / Market Systems
-`Market data` · `Portfolio & risk` · `Append-only ledgers` · `Reconciliation` · `EVM` · `Indexers` · `On-chain events`
+Go services, REST APIs, PostgreSQL and Redis, with a focus on reliable backend foundations, deployment workflows and production observability.
+
+</td>
+<td valign="top">
+
+<sub>02 / AI</sub>
+
+### AI & Automation
+
+LLM systems, RAG, MCP and tool-calling workflows for structured automation, research, code analysis and operational tasks.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<sub>03 / REAL-TIME</sub>
+
+### Real-time & Distributed Systems
+
+WebSockets, SSE, CRDTs, event-driven systems, Redis Pub/Sub, concurrency, recovery and load-oriented system design.
+
+</td>
+<td valign="top">
+
+<sub>04 / FINTECH</sub>
+
+### FinTech & Market Systems
+
+Market data, portfolio and risk infrastructure, append-only ledgers, reconciliation, EVM indexers and on-chain event processing.
+
+</td>
+</tr>
+</table>
 
 ---
 
