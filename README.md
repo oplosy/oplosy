@@ -33,51 +33,38 @@ I care less about adding another framework to a stack and more about understandi
 
 ### Backend & Infrastructure
 
-- Go services, REST APIs and background workers
-- PostgreSQL, Redis, pgvector
-- WebSockets, SSE and event-driven workflows
-- Docker, Kubernetes and Terraform
-- Prometheus, Grafana and structured observability
-- Linux, CI/CD and production-oriented tooling
+Go services · REST APIs · PostgreSQL · Redis  
+Docker · Terraform · Linux · CI/CD  
+Observability · reliability · production tooling
 
 </td>
 <td width="50%" valign="top">
 
 ### AI & Automation
 
-- LLM application architecture and orchestration
-- RAG pipelines and vector retrieval
-- MCP / tool-calling workflows
-- Agentic task planning and controlled execution
-- AI-assisted codebase analysis and architecture exploration
-- Automation for research, repetitive engineering and operational workflows
+LLM systems · RAG · vector retrieval  
+MCP · tool calling · workflow orchestration  
+Research, code and operational automation
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### Real-time & Distributed Systems
 
-- CRDT / Yjs synchronization
-- WebSocket protocol implementation
-- Redis Pub/Sub fan-out
-- Persistent event / operation logs
-- Multi-replica convergence and anti-entropy
-- Load testing, race testing and failure recovery
+WebSockets · SSE · CRDTs  
+Event-driven systems · Redis Pub/Sub  
+Concurrency · recovery · load testing
 
 </td>
 <td width="50%" valign="top">
 
 ### FinTech & Market Systems
 
-- Append-only ledgers and deterministic projections
-- Reconciliation and data lineage
-- Portfolio, PnL and risk infrastructure
-- Exchange ingestion and market data workflows
-- Solidity / EVM smart contracts
-- Bonding curves, indexers and on-chain event processing
+Market data · portfolio and risk systems  
+Append-only ledgers · reconciliation  
+EVM · indexers · on-chain event processing
 
 </td>
 </tr>
@@ -85,18 +72,11 @@ I care less about adding another framework to a stack and more about understandi
 
 ---
 
-## AI / Agentic engineering
+## AI Agent
 
-AI is not a separate checkbox in my work. I am interested in how models can become a **controlled engineering primitive** inside larger systems.
+I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
-That includes using LLMs for structured planning, codebase analysis, research automation and architecture exploration, while keeping execution observable and bounded by deterministic validation where correctness matters.
-
-Some of the work behind that interest:
-
-- Built **RAG pipelines** with vector databases and worked with pretrained LLMs and CNNs during a government-backed Data Analytics & AI program.
-- Built **governed AI workflows** in Fluxboard: natural-language task parsing, plan generation, tool execution through **MCP**, live-data status digests, chat, and auditable `ai_runs` / `ai_risks` ledgers.
-- Experiment with **agentic development workflows** for research, implementation planning, architecture design, code review and repetitive engineering tasks.
-- Prefer AI systems that expose their inputs, tools, state transitions and verification boundaries instead of treating the model as an opaque source of truth.
+`Tool Calling` `MCP` `RAG` `Planning` `Context & Memory` `Workflow Automation` `Codebase Analysis`
 
 ---
 
