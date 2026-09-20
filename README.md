@@ -68,7 +68,7 @@ Market data, portfolio and risk infrastructure, append-only ledgers, reconciliat
 
 I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
-`Tool Calling` `MCP` `RAG` `Planning` `Context & Memory` `Workflow Automation` `Codebase Analysis`
+`Tool Calling` - `Planning` - `Context & Memory` - `Workflow Automation` - `Codebase Analysis`
 
 ---
 
