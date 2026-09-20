@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Mesut%20Can%20Ko%C3%A7&fontAlignY=34&desc=Backend%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20FinTech&descAlignY=55&animation=fadeIn" width="100%" alt="Mesut Can Koç" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Mesutcan%20Koc&fontAlignY=34&desc=Backend%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20FinTech&descAlignY=55&animation=fadeIn" width="100%" alt="Mesutcan Koc" />
 
 <a href="https://github.com/oplosy?tab=repositories"><img src="https://img.shields.io/badge/Go-Backend%20%26%20Systems-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Backend & Systems" /></a>
 <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI workflows" />
