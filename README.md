@@ -27,48 +27,17 @@ I care less about adding another framework to a stack and more about understandi
 
 ## Engineering focus
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### Backend & Infrastructure
-
-Go services · REST APIs · PostgreSQL · Redis  
-Docker · Terraform · Linux · CI/CD  
-Observability · reliability · production tooling
-
-</td>
-<td width="50%" valign="top">
+`Go services` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker` · `Terraform` · `Linux` · `CI/CD` · `Observability`
 
 ### AI & Automation
-
-LLM systems · RAG · vector retrieval  
-MCP · tool calling · workflow orchestration  
-Research, code and operational automation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`LLM systems` · `RAG` · `Vector retrieval` · `MCP` · `Tool calling` · `Workflow orchestration` · `Automation`
 
 ### Real-time & Distributed Systems
-
-WebSockets · SSE · CRDTs  
-Event-driven systems · Redis Pub/Sub  
-Concurrency · recovery · load testing
-
-</td>
-<td width="50%" valign="top">
+`WebSockets` · `SSE` · `CRDTs` · `Event-driven systems` · `Redis Pub/Sub` · `Concurrency` · `Recovery` · `Load testing`
 
 ### FinTech & Market Systems
-
-Market data · portfolio and risk systems  
-Append-only ledgers · reconciliation  
-EVM · indexers · on-chain event processing
-
-</td>
-</tr>
-</table>
+`Market data` · `Portfolio & risk` · `Append-only ledgers` · `Reconciliation` · `EVM` · `Indexers` · `On-chain events`
 
 ---
 
@@ -82,83 +51,15 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 ## Stack
 
-<table width="100%">
-<tr>
-<td align="center" width="25%" valign="top">
+<div align="center">
 
-<strong>Languages</strong>
+<img src="https://skillicons.dev/icons?i=go,python,postgres,redis,docker,terraform,linux,git,pytorch,prometheus,grafana" alt="Technology stack" />
 
-<br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=go,python" alt="Go and Python" />
-
-<br/><br/>
-
-<sub>Go · Python · SQL</sub>
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<strong>Data</strong>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL and Redis" />
-
-<br/><br/>
-
-<sub>PostgreSQL · Redis · pgvector</sub>
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<strong>Infrastructure</strong>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=docker,terraform,linux,git" alt="Docker, Terraform, Linux and Git" />
-
-<br/><br/>
-
-<sub>Docker · Terraform · Linux · Git · CI/CD · Virtualization</sub>
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<strong>AI</strong>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-
-<br/><br/>
-
-<sub>ML/DL · PyTorch · Fine-tuning · RAG</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2" valign="top">
-
-<strong>Networking</strong>
-
-<br/><br/>
-
-<sub>VLAN · DHCP/DNS · NAT · ACL · SNMP</sub>
-
-</td>
-<td align="center" colspan="2" valign="top">
-
-<strong>Observability</strong>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
-
-<br/><br/>
-
-<sub>Prometheus · Grafana</sub>
-
-</td>
-</tr>
-</table>
+**Languages:** Go · Python · SQL  
+**Data:** PostgreSQL · Redis · pgvector  
+**Infrastructure & DevOps:** Git · Docker · Terraform · Linux · CI/CD · Virtualization  
+**Networking:** VLAN · DHCP/DNS · NAT · ACL · SNMP  
+**AI:** ML/DL · PyTorch · Fine-tuning · RAG  
+**Observability:** Prometheus · Grafana
