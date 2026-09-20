@@ -27,7 +27,7 @@ I care less about adding another framework to a stack and more about understandi
 
 ## Engineering focus
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -82,7 +82,7 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 ## Stack
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%" valign="top">
 
