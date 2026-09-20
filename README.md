@@ -4,8 +4,6 @@
 
 </div>
 
-## About
-
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
 I like systems where correctness matters: distributed services, real-time infrastructure, financial data pipelines, protocol-heavy backends, observability, automation, and AI-assisted engineering workflows.
@@ -60,12 +58,3 @@ Market data, portfolio and risk infrastructure, append-only ledgers, reconciliat
 I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
 `Tool Calling` - `Planning` - `Context & Memory` - `Workflow Automation` - `Codebase Analysis`
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,python,postgres,redis,docker,terraform,linux,git,pytorch,prometheus,grafana" alt="Technology stack" />
-
-</div>
-
