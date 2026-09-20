@@ -9,7 +9,7 @@
 
 </div>
 
-## 01 — About
+## About
 
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
@@ -25,13 +25,13 @@ I care less about adding another framework to a stack and more about understandi
 
 ---
 
-## 02 — Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
 <td valign="top">
 
-<sub>01 / BACKEND</sub>
+<sub>BACKEND</sub>
 
 ### Backend & Infrastructure
 
@@ -40,7 +40,7 @@ Go services, REST APIs, PostgreSQL and Redis, with a focus on reliable backend f
 </td>
 <td valign="top">
 
-<sub>02 / AI</sub>
+<sub>AI</sub>
 
 ### AI & Automation
 
@@ -51,7 +51,7 @@ LLM systems, RAG, MCP and tool-calling workflows for structured automation, rese
 <tr>
 <td valign="top">
 
-<sub>03 / REAL-TIME</sub>
+<sub>REAL-TIME</sub>
 
 ### Real-time & Distributed Systems
 
@@ -60,7 +60,7 @@ WebSockets, SSE, CRDTs, event-driven systems, Redis Pub/Sub, concurrency, recove
 </td>
 <td valign="top">
 
-<sub>04 / FINTECH</sub>
+<sub>FINTECH</sub>
 
 ### FinTech & Market Systems
 
@@ -72,7 +72,7 @@ Market data, portfolio and risk infrastructure, append-only ledgers, reconciliat
 
 ---
 
-## 03 — AI Agent
+## AI Agent
 
 I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
@@ -80,7 +80,7 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 ---
 
-## 04 — Stack
+## Stack
 
 <div align="center">
 
