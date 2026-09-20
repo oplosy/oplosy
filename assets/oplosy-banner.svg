@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">oplosy</title>
+  <desc id="desc">Backend, Infrastructure, AI Systems and FinTech</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9fdef8"/>
+      <stop offset="50%" stop-color="#fff0c7"/>
+      <stop offset="100%" stop-color="#f4b7e7"/>
+    </linearGradient>
+    <radialGradient id="leftGlow" cx="0.12" cy="0.58" r="0.55">
+      <stop offset="0%" stop-color="#fff4bd" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#fff4bd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rightGlow" cx="0.86" cy="0.58" r="0.5">
+      <stop offset="0%" stop-color="#ffd5e6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffd5e6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#de79cb"/>
+      <stop offset="28%" stop-color="#aa8cf0"/>
+      <stop offset="55%" stop-color="#5eb8f3"/>
+      <stop offset="78%" stop-color="#a78de9"/>
+      <stop offset="100%" stop-color="#ef7dbc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#leftGlow)"/>
+  <rect width="1200" height="320" fill="url(#rightGlow)"/>
+
+  <text x="600" y="160"
+        text-anchor="middle"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="100"
+        font-weight="700"
+        letter-spacing="-4"
+        fill="url(#word)">oplosy</text>
+
+  <text x="600" y="216"
+        text-anchor="middle"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="25"
+        font-weight="600"
+        fill="#20242c">Backend • Infrastructure • AI Systems • FinTech</text>
+</svg>
