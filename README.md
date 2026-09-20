@@ -9,9 +9,7 @@
 
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/01-ABOUT-161B22?style=for-the-badge&labelColor=00ADD8" alt="01 About" />
-</div>
+## 01 — About
 
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
@@ -27,9 +25,7 @@ I care less about adding another framework to a stack and more about understandi
 
 ---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/02-ENGINEERING%20FOCUS-161B22?style=for-the-badge&labelColor=00ADD8" alt="02 Engineering Focus" />
-</div>
+## 02 — Engineering Focus
 
 ### Backend / Infrastructure
 `Go services` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker` · `Terraform` · `Linux` · `CI/CD` · `Observability`
@@ -45,9 +41,7 @@ I care less about adding another framework to a stack and more about understandi
 
 ---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/03-AI%20AGENT-161B22?style=for-the-badge&labelColor=00ADD8" alt="03 AI Agent" />
-</div>
+## 03 — AI Agent
 
 I build and experiment with **agentic workflows** that connect LLMs to tools, retrieval and structured execution, with an emphasis on practical automation and verifiable outputs.
 
@@ -55,9 +49,7 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 ---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/04-STACK-161B22?style=for-the-badge&labelColor=00ADD8" alt="04 Stack" />
-</div>
+## 04 — Stack
 
 <div align="center">
 
