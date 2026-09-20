@@ -66,8 +66,6 @@ I build and experiment with **agentic workflows** that connect LLMs to tools, re
 
 `Tool Calling` - `Planning` - `Context & Memory` - `Workflow Automation` - `Codebase Analysis`
 
----
-
 ## Stack
 
 <div align="center">
