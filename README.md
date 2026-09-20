@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Mesutcan%20Koc&fontAlignY=34&desc=Backend%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20FinTech&descAlignY=55&animation=fadeIn" width="100%" alt="Mesutcan Koc" />
-
-</div>
+<p align="center">
+  <img src="./assets/oplosy-banner.svg" alt="oplosy — Backend, Infrastructure, AI Systems, FinTech" width="100%" />
+</p>
 
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
