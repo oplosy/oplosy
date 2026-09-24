@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/oplosy-banner.png" alt="oplosy — Backend, Infrastructure, AI Systems, FinTech" width="100%" />
-</p>
 
 I am a **Computer Engineering graduate** focused on backend and infrastructure engineering, primarily with **Go**.
 
