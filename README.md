@@ -1,47 +1,47 @@
-I am a **Computer Engineering graduate** focused on backend, infrastructure and systems engineering.
+I am a **Computer Engineering graduate** building backend and infrastructure systems, primarily in **Go**.
 
-I am interested in building reliable software systems where correctness, scalability and maintainability matter, including distributed applications, real-time platforms, financial systems, automation and AI-assisted engineering workflows.
+I work where correctness is the product: financial data, real-time collaboration and network automation, using AI-assisted engineering workflows along the way.
 
 ## Engineering Focus
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 <sub>BACKEND</sub>
 
-### Backend & Infrastructure
+### Backend & Data Systems
 
-Designing and building reliable backend systems, APIs, data services and infrastructure with a focus on scalability, maintainability, deployment and production reliability.
+Go services and REST APIs on PostgreSQL and Redis: multi-tenant isolation with row-level security, append-only data models, background jobs and usage-based billing.
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
-<sub>AI</sub>
+<sub>REAL-TIME</sub>
 
-### AI & Automation
+### Real-time & Distributed Systems
 
-Building AI-assisted systems and automation workflows that combine reasoning, tools, retrieval and structured execution for research, engineering and operational tasks.
+WebSocket services and CRDT-based collaboration (Yjs) with durable persistence, horizontal scaling and conflict-free concurrent editing.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-<sub>REAL-TIME</sub>
+<sub>FINTECH</sub>
 
-### Real-time & Distributed Systems
+### FinTech & Risk Systems
 
-Working with real-time communication, distributed architectures, event-driven systems, concurrency, synchronization, fault recovery and scalable system design.
+Point-in-time market data, exact-decimal valuation, reconciliation, stress testing and ledgers where every number can be traced back to its source.
 
 </td>
 <td valign="top">
 
-<sub>FINTECH</sub>
+<sub>INFRASTRUCTURE</sub>
 
-### FinTech & Market Systems
+### Network Infrastructure & Automation
 
-Building systems around financial data, market infrastructure, transaction processing, portfolio and risk workflows, reconciliation and blockchain-based applications.
+Reproducible network labs and intended-state automation: OSPF/BGP/IPsec topologies, NetBox-driven Ansible deploys, rollback and drift detection.
 
 </td>
 </tr>
@@ -99,12 +99,3 @@ Intended-state network automation: NetBox YAML drives gated Ansible deploys with
 </td>
 </tr>
 </table>
-
-## AI Systems
-
-I explore and build **AI-powered systems** that combine models, software and data to support automation, analysis and engineering workflows.
-
-My focus is on making these systems practical, reliable and useful in real-world applications.
-
-`Automation` - `Analysis` - `AI Workflows` - `Developer Tools` - `Applied AI`
-
