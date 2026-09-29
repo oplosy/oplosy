@@ -1,6 +1,4 @@
-I am a **Computer Engineering graduate** building backend and infrastructure systems, primarily in **Go**.
-
-I work where correctness is the product: financial data, real-time collaboration and network automation, using AI-assisted engineering workflows along the way.
+I like the part of software where a wrong number or a lost write is a real bug. Most of my work is in Go: risk systems that can replay any past state, collaboration servers that never lose an edit, and network automation that catches drift before it breaks anything.
 
 ## Engineering Focus
 
